@@ -46,7 +46,7 @@ State | Name | Localisation | Marks | Picture
 2 | | Появляется преимущественно в RefSeqGene, реже в RefSeqTSS2kb и RefSeqTES | Для состояния характерны метки H3K79me2 и H3k4me1, менее характерны метки H4K20me1, H3k27ac, H3k9ac и H3k4me2
 3 | | Появляется преимущественно в RefSeqTES, реже в RefSeqExon, RefSeqTSS2kb и laminB1lads | Для состояния характерна метка H3k4me1 , менее характерна метка H3k27ac
 4 | | Появляется преимущественно в RefSeqTES, реже в RefSeqGene, RefSeqExon, RefSeqTSS2kb и laminB1lads | Для состояния характерны метки H3k4me1, H2AFZ, H3k27ac, H3k9ac и H3k4me2
-5 | | Появляется преимущественно в CpGIsland, RefSeqExon, RefSeqTSS и RefSeqTSS2kb, реже в RefSeqTES | Для состояния характерны метки H2AFZ, H3k27ac, H3k9ac и H3k4me2, менее характерна метка H3k4me1
+5 | Active promoter | Появляется преимущественно в CpGIsland, RefSeqExon, RefSeqTSS и RefSeqTSS2kb, реже в RefSeqTES. Сконцентрировано около TSS | Для состояния характерны метки H2AFZ, H3k27ac, H3k9ac и H3k4me2, менее характерна метка H3k4me1
 6 | | Появляется преимущественно в RefSeqExon, RefSeqTES, RefSeqTSS2kb, реже в CpGIsland, RefSeqGene и RefSeqTSS | Для состояния характерны метки H3K79me2, H3k27ac, H3k9ac и H3k4me2, менее характерны метки H3k4me1 и H2AFZ
 7 | | Появляется преимущественно в laminB1lads реже в RefSeqTES, CpGIsland, RefSeqExon, RefSeqTSS2kb и RefSeqTSS | Для состояния характерна метка H3k4me1 и H2AFZ
 8 | | Появляется преимущественно в RefSeqTES, реже в RefSeqExon, RefSeqGene и laminB1lads | Для состояния нет характерных меток 
