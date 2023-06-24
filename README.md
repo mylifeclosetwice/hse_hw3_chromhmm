@@ -23,7 +23,7 @@ Num	| Histone mark |	File name
 ## ChromHMM-выдача:
 Emission	| Transition |	Overlap 
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/1816a2e9-ac56-45b6-96aa-0dbcaa6a1f4a) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/73f6470e-8fa6-4894-b7f5-27be48a93856) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/2fc68dd9-5dc6-47a1-bbfe-241c195b5615)
+![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/1816a2e9-ac56-45b6-96aa-0dbcaa6a1f4a) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/2fc68dd9-5dc6-47a1-bbfe-241c195b5615) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/73f6470e-8fa6-4894-b7f5-27be48a93856) 
 
 
 
