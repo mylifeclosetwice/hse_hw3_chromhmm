@@ -39,7 +39,7 @@ State | Name | Localisation | Marks | Picture
 1 | Transcribed | Появляется преимущественно в RefSeqGene | Для состояния характерна метка H3K79me2
 2 | | Появляется преимущественно в RefSeqGene, реже в RefSeqTSS2kb и RefSeqTES | Для состояния характерны метки H3K79me2 и H3k4me1, менее характерны метки H4K20me1, H3k27ac, H3k9ac и H3k4me2
 3 | | Появляется преимущественно в RefSeqTES, реже в RefSeqExon, RefSeqTSS2kb и laminB1lads | Для состояния характерна метка H3k4me1 , менее характерна метка H3k27ac
-4 | | Появляется преимущественно в RefSeqTES, реже в RefSeqGene, RefSeqExon, RefSeqTSS2kb и laminB1lads | Для состояния характерна метка H3k4me1 , менее характерна метка H3k27ac | Для состояния характерны метки H3k4me1, H2AFZ, H3k27ac, H3k9ac и H3k4me2
+4 | | Появляется преимущественно в RefSeqTES, реже в RefSeqGene, RefSeqExon, RefSeqTSS2kb и laminB1lads | Для состояния характерны метки H3k4me1, H2AFZ, H3k27ac, H3k9ac и H3k4me2
 5 | | Появляется преимущественно в | Для состояния характерны метки H2AFZ, H3k27ac, H3k9ac и H3k4me2, менее характерна метка H3k4me1
 6 | | Появляется преимущественно в | Для состояния характерны метки H3K79me2, H3k27ac, H3k9ac и H3k4me2, менее характерны метки H3k4me1 и H2AFZ
 7 | | Появляется преимущественно в | Для состояния характерна метка H3k4me1 и H2AFZ
