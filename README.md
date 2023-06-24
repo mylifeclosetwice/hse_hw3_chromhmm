@@ -25,6 +25,11 @@ Emission	| Transition |	Overlap
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/1816a2e9-ac56-45b6-96aa-0dbcaa6a1f4a) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/2fc68dd9-5dc6-47a1-bbfe-241c195b5615) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/73f6470e-8fa6-4894-b7f5-27be48a93856) 
 
+RefSeqTSS	| RefSeqTES
+:-------------------------:|:-------------------------:
+![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/037c46ec-4e80-4777-8404-0e35f6547a44) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/adda044e-cb8a-4b47-95b9-d3ce885c130b)
+
+
 
 
 ## Эпигенетические типы:
