@@ -15,3 +15,5 @@ Num	| Histone mark |	File name
 8 | H2AFZ | wgEncodeBroadHistoneK562H2azStdAlnRep1.bam
 9 | H3k9ac | wgEncodeBroadHistoneK562H3k9acStdAlnRep1.bam
 10 | H3k4me2 | wgEncodeBroadHistoneK562H3k4me2StdAlnRep1.bam
+
+Контрольный файл: wgEncodeBroadHistoneK562ControlStdAlnRep1.bam
