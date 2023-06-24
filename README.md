@@ -18,3 +18,26 @@ Num	| Histone mark |	File name
 10 | H3k4me2 | wgEncodeBroadHistoneK562H3k4me2StdAlnRep1.bam
 
 Контрольный файл: wgEncodeBroadHistoneK562ControlStdAlnRep1.bam
+
+
+## ChromHMM-выдача:
+Emission	| Transition |	Overlap 
+:-------------------------:|:-------------------------:|:-------------------------:
+![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/1816a2e9-ac56-45b6-96aa-0dbcaa6a1f4a) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/73f6470e-8fa6-4894-b7f5-27be48a93856) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/2fc68dd9-5dc6-47a1-bbfe-241c195b5615)
+
+
+
+## Эпигенетические типы:
+
+State | Name | Localisation | Marks | Picture
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+1 |
+2 |
+3 |
+4 |
+5 |
+6 |
+7 |
+8 |
+9 |
+10 |
