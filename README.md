@@ -53,4 +53,9 @@ State | Name | Localisation | Marks | Picture
 9 | Repressed | Появляется преимущественно в laminB1lads | Для состояния нет характерных меток | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/08e3361e-387a-4262-8c23-7420ad2371ea)
 10 | Heterochromatin | Появляется преимущественно в laminB1lads, реже в RefSeqTES, RefSeqGene и RefSeqExon | Для состояния характерна метка H3K27me3 (но и для нее вероятность крайне мала) | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/2f59d709-b6ba-466c-8d4a-e3020289ebed)
 
+ ## Бонус:
+ Бонусное задание выполнено с помощью текстового редактора NotePad++ (функция найти-заменить)
+
+![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/6b87d4ca-14a9-49c2-b0c7-722dfb47390a)
+
  
