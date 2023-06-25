@@ -59,13 +59,7 @@ RefSeqTSS	| RefSeqTES
 
 
 ## Эпигенетические типы:
-CpGIsland
-RefSeqExon
-RefSeqTSS
-RefSeqTSS2kb
-RefSeqGene
-RefSeqTES
-laminB1lads
+
 State | Name | Localisation | Marks | Picture
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 1 | Transcribed | Появляется преимущественно в RefSeqGene | Для состояния характерна метка H3K79me2 | ![image](https://github.com/mylifeclosetwice/hse_hw3_chromhmm/assets/71773580/c4ea1213-6c06-42f3-8b70-dc76f945515e)
