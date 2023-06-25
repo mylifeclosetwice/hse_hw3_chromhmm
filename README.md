@@ -21,12 +21,31 @@ Num	| Histone mark |	File name
 ## Запущенные команды:
 ### Установка программ:
 ```
- !curl -O https://raw.githubusercontent.com/deepjavalibrary/d2l-java/master/tools/fix-colab-gpu.sh && bash fix-colab-gpu.sh
+!curl -O https://raw.githubusercontent.com/deepjavalibrary/d2l-java/master/tools/fix-colab-gpu.sh && bash fix-colab-gpu.sh
+
 !curl -O https://raw.githubusercontent.com/deepjavalibrary/d2l-java/master/tools/colab_build.sh && bash colab_build.sh
+
 !java --list-modules | grep "jdk.jshell"
+
 ! wget http://compbio.mit.edu/ChromHMM/ChromHMM.zip
+
 !unzip /content/ChromHMM.zip
 ```
+### Cкачивание файлов
+```
+!wget http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneK562H3k4me1StdAlnRep1.bam -O H3k4me1.bam
+
+# и так для каждого файла
+```
+### Запускаем ChromHMM
+```
+!java -mx5000M -jar /content/ChromHMM/ChromHMM.jar BinarizeBam -b 200  /content/ChromHMM/CHROMSIZES/hg19.txt /content/ cellmarkfiletable.txt   binarizedData
+
+!java -mx5000M -jar /content/ChromHMM/ChromHMM.jar LearnModel -b 200 binarizedData LearnModel_output 10 hg19
+
+!zip -r LearnModel_output.zip LearnModel_output/
+```
+
 ## ChromHMM-выдача:
 Emission	| Transition |	Overlap 
 :-------------------------:|:-------------------------:|:-------------------------:
