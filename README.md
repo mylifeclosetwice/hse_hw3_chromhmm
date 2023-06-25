@@ -19,7 +19,10 @@ Num	| Histone mark |	File name
 
 Контрольный файл: wgEncodeBroadHistoneK562ControlStdAlnRep1.bam
 ## Запущенные команды:
-
+### Установка программ:
+!curl -O https://raw.githubusercontent.com/deepjavalibrary/d2l-java/master/tools/fix-colab-gpu.sh && bash fix-colab-gpu.sh
+!curl -O https://raw.githubusercontent.com/deepjavalibrary/d2l-java/master/tools/colab_build.sh && bash colab_build.sh
+!java --list-modules | grep "jdk.jshell"
 ## ChromHMM-выдача:
 Emission	| Transition |	Overlap 
 :-------------------------:|:-------------------------:|:-------------------------:
