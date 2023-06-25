@@ -18,7 +18,7 @@ Num	| Histone mark |	File name
 10 | H3k4me2 | wgEncodeBroadHistoneK562H3k4me2StdAlnRep1.bam
 
 Контрольный файл: wgEncodeBroadHistoneK562ControlStdAlnRep1.bam
-
+## Запущенные команды:
 
 ## ChromHMM-выдача:
 Emission	| Transition |	Overlap 
